@@ -18,7 +18,6 @@ module Animatedgifme
   end
 
   private
-
     def self.retrieve_url(response)
       response.parsed_response["url"]
     end
