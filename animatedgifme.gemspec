@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Chris Bastian"]
   spec.email         = ["peacethrubeats@gmail.com"]
   spec.summary       = %q{A ruby library for http://animatedgif.me}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.description   = %q{}
   spec.homepage      = "https://github.com/Lastbastian/animatedgifme"
   spec.license       = "MIT"
 
