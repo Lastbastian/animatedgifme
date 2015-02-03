@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Animatedgifme::VERSION
   spec.authors       = ["Chris Bastian"]
   spec.email         = ["peacethrubeats@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
+  spec.summary       = %q{A ruby library for http://animatedgif.me}
   spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/Lastbastian/animatedgifme"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
